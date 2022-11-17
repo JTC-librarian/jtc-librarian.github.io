@@ -1,3 +1,14 @@
+div {
+  border: 5px solid red;
+}
+div#topbar {
+  height:18%;
+  width:100%
+}
+div#sidebar {
+  height:82%;
+  width:18%
+}
 div#main {
   display:none;
 }
