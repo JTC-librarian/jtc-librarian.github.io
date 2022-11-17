@@ -1,15 +1,20 @@
-div {
-  border: 5px solid red;
-}
 div#topbar {
+  position:absolute;
   height:18%;
-  width:100%
+  width:100%;
+  border: 1px solid red;
 }
 div#sidebar {
-  height:82%;
-  width:18%
+  position:absolute;
+  top:20%;
+  height:80%;
+  width:18%;
+  border: 1px solid green;
 }
 div#main {
-  height:82%;
-  width:82%
+  left: 20%;
+  top: 20%;
+  height:80%;
+  width:80%;
+  border: 1px solid blue;
 }
