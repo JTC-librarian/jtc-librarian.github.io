@@ -10,5 +10,6 @@ div#sidebar {
   width:18%
 }
 div#main {
-  display:none;
+  height:82%;
+  width:82%
 }
