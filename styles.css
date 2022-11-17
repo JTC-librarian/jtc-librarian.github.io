@@ -12,6 +12,7 @@ div#sidebar {
   border: 1px solid green;
 }
 div#main {
+  position:absolute;
   left: 20%;
   top: 20%;
   height:80%;
