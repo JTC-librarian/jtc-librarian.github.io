@@ -1,15 +1,19 @@
+body {
+  background-color:#DCF0F4;
+}
+
 div#topbar {
   position:absolute;
   height:18%;
   width:98%;
-  border: 1px solid red;
+  #border: 1px solid red;
 }
 div#sidebar {
   position:absolute;
   top:20%;
   height:78%;
   width:18%;
-  border: 1px solid green;
+  #border: 1px solid green;
 }
 div#main {
   position:absolute;
@@ -17,5 +21,6 @@ div#main {
   top: 20%;
   height:78%;
   width:80%;
-  border: 1px solid blue;
+  background-color:#F7F7F7
+  #border: 1px solid blue;
 }
