@@ -15,6 +15,10 @@ div#sidebar {
   width:13%;
   #border: 1px solid green;
 }
+div#menu {
+  position:absolute;
+  top:18%;
+}
 div#main {
   position:absolute;
   left: 14%;
@@ -23,4 +27,7 @@ div#main {
   width:85%;
   background-color:#F7F7F7;
   #border: 1px solid blue;
+}
+li {
+  list-style-type:none;
 }
