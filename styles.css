@@ -11,7 +11,7 @@ div#topbar {
 div#sidebar {
   position:absolute;
   top:10%;
-  height:78%;
+  height:88%;
   width:13%;
   #border: 1px solid green;
 }
@@ -19,7 +19,7 @@ div#main {
   position:absolute;
   left: 14%;
   top: 10%;
-  height:78%;
+  height:88%;
   width:85%;
   background-color:#F7F7F7;
   #border: 1px solid blue;
