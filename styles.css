@@ -31,3 +31,7 @@ div#main {
 li {
   list-style-type:none;
 }
+h1 {
+  margin: 0;
+  font-size: 30px;
+}
