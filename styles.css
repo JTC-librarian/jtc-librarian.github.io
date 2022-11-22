@@ -1,7 +1,6 @@
 body {
   background-color:#DCF0F4;
 }
-
 div#topbar {
   position:absolute;
   height:8%;
@@ -14,10 +13,6 @@ div#sidebar {
   height:88%;
   width:13%;
   #border: 1px solid green;
-}
-div#menu {
-  position:absolute;
-  top:18%;
 }
 div#main {
   position:absolute;
