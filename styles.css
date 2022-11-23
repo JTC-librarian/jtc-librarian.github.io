@@ -37,8 +37,9 @@ button#menu {
   top: 0;
   right: 5%
 }
-a.publication-links{
-  margin-left:10px;
+div.publication-links{
+  padding-top:5px;
+  padding-left:20px;
 }
 
 /* MOBILE STYLES BELOW */
