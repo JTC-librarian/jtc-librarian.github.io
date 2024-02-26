@@ -8,6 +8,7 @@ div#topbar {
 }
 div#sidebar {
   position:absolute;
+  padding:10px;
   top:50px;
   left:0;
   width:18%;
@@ -32,8 +33,6 @@ h1 {
   font-size: 30px;
 }
 p {
-  padding-top:3px;
-  padding-left:5px;
   font-size:18px;
 }
 button#menu {
