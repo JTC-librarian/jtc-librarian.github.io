@@ -34,7 +34,7 @@ h1 {
 p {
   padding-top:3px;
   padding-left:5px;
-  font-size: 18px;
+  font-size:18px;
 }
 button#menu {
   display: none;
@@ -43,7 +43,7 @@ button#menu {
   right: 5%
 }
 div.publication-links {
-  font-size:85%;
+  font-size:16px;
   padding-top:5px;
   padding-left:20px;
 }
@@ -68,4 +68,7 @@ div.publication-links {
   p {
     font-size: 14px;
   }
+  div.publication-links {
+  font-size:12px;
+}
 }
