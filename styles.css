@@ -14,7 +14,7 @@ div#sidebar {
   width:18%;
   height: 80%;
 }
-div.content {
+div#content {
   position:absolute;
   padding: 10px;
   left: 19%;
